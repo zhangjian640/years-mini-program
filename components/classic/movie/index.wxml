@@ -1,0 +1,5 @@
+<view hidden="{{hidden}}" class="classic-container">
+  <image class="classic-img" mode="aspectFill" src="{{img}}"/>
+  <image class="tag" src="./images/movie@2x.png" />
+  <text class="content">{{content}}</text>
+</view>
